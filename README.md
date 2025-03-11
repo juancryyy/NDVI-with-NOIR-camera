@@ -1,2 +1,3 @@
-# NDVI-with-NOIR-camera
-Using a raspberry pi NOIR camera+raspberrrypi4b+ to improve a simple system for checking de NDVI in general porpuse ambiente
+# NDVI with NOIR Camera  
+
+Using a Raspberry Pi NOIR camera and a Raspberry Pi 4B to develop a simple system for NDVI analysis in general-purpose environments.  
